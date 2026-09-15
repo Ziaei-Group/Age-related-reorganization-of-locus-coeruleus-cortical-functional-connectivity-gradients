@@ -2,6 +2,11 @@
 
 History of uploads to this repository (A = added, M = modified, D = deleted).
 
+## 2026-09-15 09:46 - readme
+
+Files:
+  - `README.md` (M)
+
 ## 2026-09-15 09:39 - analysis scripts, source data and movie stimuli
 
 Files:
