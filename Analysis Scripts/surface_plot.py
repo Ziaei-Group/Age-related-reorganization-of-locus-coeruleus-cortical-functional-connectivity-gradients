@@ -3,7 +3,7 @@ directory = r''
 figure_directory = r''
 
 
-img_list = [file for file in os.listdir(directory) if file.endswith('combined_G1_Flipped.nii')]
+img_list = [file for file in os.listdir(directory) if file.endswith('combined_G1.nii')]
 
 print(img_list)
 name=['']
