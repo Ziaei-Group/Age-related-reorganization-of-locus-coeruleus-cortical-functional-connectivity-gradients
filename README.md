@@ -1,6 +1,7 @@
 # Age-related reorganization of locus coeruleus–cortical functional connectivity gradients
 
-Code, source data and stimuli for the manuscript (Ziaei Group, Kavli Institute for Systems Neuroscience, NTNU).
+Code, source data and stimuli for the manuscript (Emotion and Aging Neuroscience Lab, Kavli Institute for Systems Neuroscience, NTNU).
+Corresponding author: Maryam Ziaei maryam.ziaei@ntnu.no
 
 **Preprint:** [bioRxiv, doi:10.64898/2026.02.05.704005](https://www.biorxiv.org/content/10.64898/2026.02.05.704005v2)
 
